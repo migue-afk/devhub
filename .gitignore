@@ -1,0 +1,27 @@
+# Arduino
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# VSCode / PlatformIO
+.vscode/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs / datos
+*.log
+*.csv
+atmo.txt
