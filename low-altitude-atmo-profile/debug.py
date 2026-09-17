@@ -1,3 +1,4 @@
+#This file works with a terminal and a Bluetooth device. The terminal simulates the LTM telemetry protocol used by a Matek F4 or a similar flight controller.
 import serial
 import time
 
